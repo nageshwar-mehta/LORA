@@ -1,4 +1,4 @@
-Sure! Below is a **complete step-by-step guide** covering both the **hardware** and **software** parts of setting up LoRaWAN ABP mode with ESP32 and a LoRa module using the MCCI LoRaWAN LMIC library.  
+ **complete step-by-step guide** covering both the **hardware** and **software** parts of setting up LoRaWAN ABP mode with ESP32 and a LoRa module using the MCCI LoRaWAN LMIC library.  
 
 ---
 
